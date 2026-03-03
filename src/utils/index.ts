@@ -1,0 +1,1 @@
+export const parsePaginationParam = (value: number) => value ? +value : undefined

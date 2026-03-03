@@ -1,0 +1,22 @@
+export const categories = [
+  { id: 1, name: "Acción" },
+  { id: 2, name: "Aventura" },
+  { id: 3, name: "Animación" },
+  { id: 4, name: "Ciencia Ficción" },
+  { id: 5, name: "Comedia" },
+  { id: 6, name: "Drama" },
+  { id: 7, name: "Familiar" },
+  { id: 8, name: "Fantasía" },
+  { id: 9, name: "Musical" },
+  { id: 10, name: "Romance" },
+  { id: 11, name: "Suspenso" },
+  { id: 12, name: "Terror" },
+  { id: 13, name: "Thriller" },
+  { id: 14, name: "Western" },
+  { id: 15, name: "Documental" },
+  { id: 16, name: "Crimen" },
+  { id: 17, name: "Espionaje" },
+  { id: 18, name: "Bélica" },
+  { id: 19, name: "Histórica" },
+  { id: 20, name: "Deportes" }
+];
