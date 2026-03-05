@@ -6,6 +6,8 @@ import { authenticate, isAdmin } from "../middlewares/auth";
 
 const router = Router()
 
+router.get('/header', MovieController.getMovieHeader)
+
 router.param('moviePath', validateMoviePath)
 router.param('moviePath', loadMovieByPath)
 
